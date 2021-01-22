@@ -7,4 +7,5 @@ Please give your datasets a meaningful name. If there are some unformatted chara
 <hr>
 
 ## Content
-`airports.json/airports_formatted.json`: IATA, ICAO, coordinates, country and name of many airports
+`airports.json/airports_formatted.json`: IATA, ICAO, coordinates, country and name of many airports<br>
+`user_agents.txt`: 4277 User-Agent strings<br>
